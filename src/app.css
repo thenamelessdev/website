@@ -3,3 +3,7 @@
 body {
     @apply bg-neutral-900 text-white font-mono
 }
+
+.button {
+    @apply p-2 bg-green-300 rounded-xl text-neutral-800 cursor-pointer hover:bg-green-400 duration-300
+}
