@@ -1,1 +1,1 @@
-<p>Hello world</p>
+<p class="text-xl">Hello world</p>
