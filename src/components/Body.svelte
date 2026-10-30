@@ -1,5 +1,6 @@
 <script>
-  import ToolList from "./ToolList.svelte";
+  import GithubStats from "./GithubStats.svelte";
+import ToolList from "./ToolList.svelte";
 
 </script>
 <div class="mt-15">
@@ -9,6 +10,10 @@
     <p class="text-gray-500">Self-taught developer building web apps, Discord bots and a homelab.</p>
     <br>
     <a href="https://github.com/thenamelessdev" class="button" target="_blank">Github</a>
+
+    <br><br>
+
+    <GithubStats />
 
     <br><br>
 
